@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Jul 18 18:44:08 GMT 2022","Mon Jul 18 18:44:09 GMT 2022","171","","TestAlertBoxPage","","TestAlertBoxPage","testAlertBox","testAlertBox()",""
+"broken","Mon Jul 18 18:44:08 GMT 2022","Mon Jul 18 18:44:08 GMT 2022","187","","TestCardsPage","","TestCardsPage","testName","testName()",""
+"broken","Mon Jul 18 18:44:09 GMT 2022","Mon Jul 18 18:44:09 GMT 2022","244","","TestProgressBarPage","","TestProgressBarPage","testDownload","testDownload()",""
+"broken","Mon Jul 18 18:44:08 GMT 2022","Mon Jul 18 18:44:08 GMT 2022","264","","TestDropDownPage","","TestDropDownPage","testDay","testDay()",""
+"broken","Mon Jul 18 18:44:07 GMT 2022","Mon Jul 18 18:44:08 GMT 2022","954","","TestPaginationPage","","TestPaginationPage","testCount","testCount()",""
